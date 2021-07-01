@@ -1,11 +1,11 @@
 {
-  "personas": [
+  "employees": [
     {
-      "nombre": "Test 1",
+      "name": "Test 1",
       "cel": "151111"
     },
     {
-      "nombre": "Test 2",
+      "name": "Test 2",
       "cel": "9999999"
     }
   ]
