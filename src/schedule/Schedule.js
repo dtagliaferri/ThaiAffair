@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class Employees extends Component {
+class Schedule extends Component {
   state = { clicked: false };
 
   handleClick = () => {
@@ -8,13 +8,12 @@ class Employees extends Component {
   };
 
   render() {
-    console.log("test2134123");
     return (
       <div>
-        <h1> Employee </h1>
+        <h1>Schedule</h1>
       </div>
     );
   }
 }
 
-export default Employees;
+export default Schedule;
